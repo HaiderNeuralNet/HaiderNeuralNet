@@ -4,7 +4,7 @@
 
 <!-- HEADER BANNER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5a0,100:00d4ff&height=200&section=header&text=Haider%20Ali%20Shah&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20Student%20%7C%20Backend%20Developer%20%7C%20Chatbot%20Builder&descAlignY=55&descSize=18"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5a0,100:00d4ff&height=200&section=header&text=Haider%20Ali%20Shah&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Chatbot%20Builder&descAlignY=55&descSize=18"/>
 </div>
 
 <!-- TYPING ANIMATION -->
