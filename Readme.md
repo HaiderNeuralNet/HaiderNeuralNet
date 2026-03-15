@@ -24,21 +24,29 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class HaiderAliShah:
-    name       = "Haider Ali Shah"
-    role       = "AI Student & Backend Developer"
-    university = "BS Artificial Intelligence"
-    location   = "Pakistan 🇵🇰"
-    email      = "haiderneuralnet.contact@gmail.com"
-    hobbies    = ["Coding 💻", "Building Chatbots 🤖", "Reading Books 📚"]
+- 🎓 AI-focused student interested in **Backend Development**
+- 🤖 Exploring **AI, Large Language Models (LLMs), and intelligent systems**
+- ⚡ Working with **Python,ML,DL,NLP,CV,FastAPI, LangChain, and RAG**
+- 🚀 Building real-world **AI and backend projects**
+- 📚 Always learning new technologies and improving coding skills
+  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d2a1f&height=60&section=header&text=Building%20Intelligent%20Systems&fontSize=22&fontColor=ffffff&fontAlignY=50"/>
+</div>
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing 🚀")
+---
 
-me = HaiderAliShah()
-me.say_hi()
-```
+## 💻 Languages & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,html,css,js,git,github,vscode,pycharm,pytorch,linux&theme=dark&perline=12"/>
+</div>
+
+---
+
+## ⚡ Fun Fact
+
+> *Learning, building, and enjoying the journey of coding.*
 
 ---
 
@@ -70,6 +78,7 @@ me.say_hi()
 
 **⚙️ Backend Development**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -133,6 +142,6 @@ me.say_hi()
 </div>
 
 <div align="center">
- 
-  <b>Made by Haider Ali Shah </b>
+  <i>Turning curiosity into code</i><br/>
+
 </div>
