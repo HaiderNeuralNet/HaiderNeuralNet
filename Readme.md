@@ -98,8 +98,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HaiderNeuralNet&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00d4ff&text_color=ddeeff" alt="Haider Ali Shah GitHub Stats" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=HaiderNeuralNet&show_icons=true&theme=dark" alt="GitHub Stats" />
 </div>
 
 ---
