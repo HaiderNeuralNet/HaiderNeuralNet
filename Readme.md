@@ -97,11 +97,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HaiderNeuralNet&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00d4ff&text_color=ddeeff" alt="Haider's GitHub Stats"/>
-
-  <img width="49%" src="https://streak-stats.demolab.com?user=HaiderNeuralNet&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00f5a0&fire=00d4ff&currStreakLabel=00f5a0" alt="GitHub Streak"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HaiderNeuralNet&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00d4ff&text_color=ddeeff" alt="Haider's GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=HaiderNeuralNet&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00f5a0&fire=00d4ff&currStreakLabel=00f5a0" alt="GitHub Streak" />
 </div>
 
 <div align="center">
