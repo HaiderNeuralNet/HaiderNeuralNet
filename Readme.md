@@ -96,7 +96,36 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HaiderNeuralNet&show_icons=true)
+<div align="center">
+  
+  <!-- Simple Stats -->
+  <table>
+    <tr>
+      <td align="center">
+        <strong>📦 Repositories</strong><br>
+        10+
+      </td>
+      <td align="center">
+        <strong>⭐ Stars</strong><br>
+        Coming Soon
+      </td>
+      <td align="center">
+        <strong>👥 Followers</strong><br>
+        <a href="https://github.com/HaiderNeuralNet?tab=followers">View</a>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <!-- Activity Graph (Works 100%) -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=HaiderNeuralNet&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" alt="Activity Graph" />
+  
+  <br><br>
+  
+  
+  
+</div>
 ---
 
 ##  Contribution Graph
