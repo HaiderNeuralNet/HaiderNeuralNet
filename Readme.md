@@ -98,7 +98,7 @@
 
 <div align="center">
   
-  <!-- Simple Stats -->
+  <!-- Simple Stats Table -->
   <table>
     <tr>
       <td align="center">
@@ -118,14 +118,17 @@
   
   <br>
   
-  <!-- Activity Graph (Works 100%) -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=HaiderNeuralNet&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" alt="Activity Graph" />
+  <!-- Activity Graph - Working Alternative -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HaiderNeuralNet&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" alt="Activity Graph" />
   
   <br><br>
   
-  
-  
+  <!-- Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaiderNeuralNet&theme=github_dark" width="100%" alt="Profile Summary" />
+
 </div>
+
+
 ---
 
 ##  Contribution Graph
