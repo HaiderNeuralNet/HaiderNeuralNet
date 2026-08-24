@@ -39,7 +39,7 @@
 ## 💻 Languages & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,html,css,js,git,github,vscode,pycharm,pytorch,linux&theme=dark&perline=12"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,php,fastapi,html,css,js,react,nextjs,sklearn,pytorch,mysql,postgres,git,github,vscode,pycharm,linux&theme=dark&perline=12"/>
 </div>
 
 ---
