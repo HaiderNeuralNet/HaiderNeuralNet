@@ -22,13 +22,13 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
-- 🎓 AI-focused student interested in **Backend Development**
-- 🤖 Exploring **AI, Large Language Models (LLMs), and intelligent systems**
-- ⚡ Working with **Python,ML,DL,NLP,CV,FastAPI, LangChain, and RAG**
-- 🚀 Building real-world **AI and backend projects**
-- 📚 Always learning new technologies and improving coding skills
+-  AI-focused student interested in **Backend Development**
+-  Exploring **AI, Large Language Models (LLMs), and intelligent systems**
+-  Working with **Python,ML,DL,NLP,CV,FastAPI, LangChain, and RAG**
+-  Building real-world **AI and backend projects**
+-  Always learning new technologies and improving coding skills
   
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d2a1f&height=60&section=header&text=Building%20Intelligent%20Systems&fontSize=22&fontColor=ffffff&fontAlignY=50"/>
@@ -44,17 +44,17 @@
 
 ---
 
-## ⚡ Fun Fact
+##  Fun Fact
 
 > *Learning, building, and enjoying the journey of coding.*
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
 <div align="center">
 
-| 🤖 AI & Chatbots | ⚙️ Backend Dev | 🌐 Full Stack |
+|  AI & Chatbots |  Backend Dev |  Full Stack |
 |:---:|:---:|:---:|
 | RAG Pipelines | FastAPI & Flask | React Frontend |
 | LangChain | REST APIs | HTML / CSS / JS |
@@ -65,9 +65,9 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-**🤖 AI & Machine Learning**
+** AI & Machine Learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-00f5a0?style=for-the-badge&logo=chainlink&logoColor=black)
@@ -76,14 +76,14 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**⚙️ Backend Development**
+** Backend Development**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**🌐 Web & Tools**
+** Web & Tools**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -94,7 +94,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HaiderNeuralNet&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00d4ff&text_color=ddeeff"/>
@@ -109,7 +109,7 @@
 
 
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HaiderNeuralNet&theme=react-dark&bg_color=0d1117&color=00f5a0&line=00d4ff&point=ffffff&hide_border=true"/>
@@ -117,7 +117,7 @@
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
