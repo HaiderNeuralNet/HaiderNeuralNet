@@ -1,126 +1,146 @@
-# 👋 Haider Ali Shah
+<!-- ═══════════════════════════════════════════════════════════
+     HAIDER ALI SHAH — GitHub Profile README
+     ═══════════════════════════════════════════════════════════ -->
+
+<!-- HEADER BANNER -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5a0,100:00d4ff&height=200&section=header&text=Haider%20Ali%20Shah&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20Student%20%7C%20Backend%20Developer%20%7C%20Chatbot%20Builder&descAlignY=55&descSize=18"/>
+</div>
+
+<!-- TYPING ANIMATION -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5A0&center=true&vCenter=true&width=700&lines=Co-Founder+%26+Lead+Developer+%C2%B7+77+Tech+Solution;BS+Artificial+Intelligence+Student+%F0%9F%8E%93;Backend+%26+AI+Developer+%F0%9F%A4%96;Building+RAG+Chatbots+%F0%9F%92%AC;Learning+Every+Single+Day+%F0%9F%9A%80;From+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<!-- PROFILE VIEWS + FOLLOWERS -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=HaiderNeuralNet&style=for-the-badge&color=00f5a0&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/HaiderNeuralNet?style=for-the-badge&color=00d4ff&label=FOLLOWERS"/>
+</div>
+
+---
+
+##  About Me
+
+-  AI-focused student interested in **Backend Development**
+-  Exploring **AI, Large Language Models (LLMs), and intelligent systems**
+-  Working with **Python,ML,DL,NLP,CV,FastAPI, LangChain, and RAG**
+-  Building real-world **AI and backend projects**
+-  Always learning new technologies and improving coding skills
+  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d2a1f&height=60&section=header&text=Building%20Intelligent%20Systems&fontSize=22&fontColor=ffffff&fontAlignY=50"/>
+</div>
+
+---
+
+## 💻 Languages & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,php,fastapi,html,css,js,react,nextjs,sklearn,pytorch,mysql,postgres,git,github,vscode,pycharm,linux&theme=dark&perline=12"/>
+</div>
+
+---
+
+##  Fun Fact
+
+> *Learning, building, and enjoying the journey of coding.*
+
+---
+
+##  What I Do
 
 <div align="center">
 
-**AI Student | Backend Developer | Chatbot Builder**
-
-*Co-Founder & Lead Developer · 77 Tech Solution*
+|  AI & Chatbots |  Backend Dev |  Full Stack |
+|:---:|:---:|:---:|
+| RAG Pipelines | FastAPI & Flask | React Frontend |
+| LangChain | REST APIs | HTML / CSS / JS |
+| OpenAI API | Python Backend | Responsive Design |
+| NLP & LLMs | Database Design | Portfolio Sites |
 
 </div>
 
 ---
 
-## 🎯 About Me
+##  Tech Stack
 
-I'm an AI-focused student passionate about building intelligent systems. Currently pursuing **BS in Artificial Intelligence** while working on real-world projects in:
+ AI & Machine Learning
 
-- 🤖 **AI & LLMs** - Building RAG chatbots and NLP applications
-- 🔧 **Backend Development** - FastAPI, Flask, and database design
-- 💻 **Full Stack Projects** - React, Next.js, and responsive web apps
-- 📚 **Continuous Learning** - Always exploring new AI technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00f5a0?style=for-the-badge&logo=chainlink&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Location:** 🇵🇰 Pakistan
+ Backend Development
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 💻 Tech Stack
+ Web & Tools
 
-### AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-00f5a0?style=flat-square&logo=chainlink&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-### Backend Development
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextjs&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=00f5a0)
 
 ---
 
-## 🚀 What I Do
+## 📊 GitHub Stats
 
-| AI & Chatbots | Backend Development | Full Stack |
-|:---:|:---:|:---:|
-| RAG Pipelines | FastAPI & Flask | React Frontend |
-| LangChain | REST APIs | HTML / CSS / JS |
-| OpenAI Integration | Python Backend | Responsive Design |
-| NLP & LLMs | Database Design | Portfolio Sites |
+<div align="center">
 
----
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HaiderNeuralNet&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00d4ff&text_color=ddeeff" alt="Haider's GitHub Stats"/>
 
-## 📊 GitHub Activity
+  <img width="49%" src="https://streak-stats.demolab.com?user=HaiderNeuralNet&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00f5a0&fire=00d4ff&currStreakLabel=00f5a0" alt="GitHub Streak"/>
 
-<!-- Using more reliable providers with fallback -->
-![Haider's GitHub Stats](https://github-readme-stats-git-main-anuraghazras-projects.vercel.app/api?username=HaiderNeuralNet&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00d4ff&text_color=ddeeff)
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HaiderNeuralNet&theme=dark&hide_border=true&background=0d1117&ring=00f5a0&fire=00d4ff&currStreakLabel=00f5a0)
+<div align="center">
+
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaiderNeuralNet&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00f5a0&text_color=ddeeff" alt="Top Languages"/>
+
+</div>
 
 ---
 
-## 🎓 Experience
 
-- **Co-Founder & Lead Developer** - 77 Tech Solution
-- **Backend & AI Developer** - Building scalable AI-powered applications
-- **Student** - BS Artificial Intelligence (In Progress)
 
----
+##  Contribution Graph
 
-## 🎯 Current Focus
-
-- 🧠 Advanced NLP and LLM optimization
-- 🔗 Building production-ready RAG systems
-- 🚀 Scaling backend services with FastAPI
-- 📱 Full-stack web application development
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HaiderNeuralNet&theme=react-dark&bg_color=0d1117&color=00f5a0&line=00d4ff&point=ffffff&hide_border=true"/>
+</div>
 
 ---
 
-## 🌱 Learning Goals
-
-- Mastering LLM fine-tuning and model optimization
-- Production deployment and DevOps practices
-- System design and architecture patterns
-- Advanced Python and C++ optimization
-
----
-
-## 📫 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-haider-neuralnet)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaiderNeuralNet)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haiderneuralnet.contact@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00f5a0?style=for-the-badge&logo=googlechrome&logoColor=black)](https://haider-potfolio.haider-ali-729-8917926.workers.dev/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haiderneuralnet.contact@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00f5a0?style=for-the-badge&logo=googlechrome&logoColor=black)](https://haider-potfolio.vercel.app/)
 
 </div>
 
 ---
 
-## ⭐ Fun Fact
-
-> *Learning, building, and enjoying the journey of coding. Turning curiosity into code.* 🚀
-
----
+<!-- FOOTER -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:00f5a0&height=120&section=footer"/>
+</div>
 
 <div align="center">
-
-**Thanks for visiting my profile! Feel free to reach out or check out my projects.** 💡
+  <i>Turning curiosity into code</i><br/>
 
 </div>
