@@ -96,17 +96,9 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HaiderNeuralNet&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00d4ff&text_color=ddeeff" alt="Haider's GitHub Stats"/>
+
  
- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HaiderNeuralNet&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00d4ff&text_color=ddeeff" alt="Haider's GitHub Stats" />
-  <br>
-  
-  <!-- Activity Graph - Working Alternative -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HaiderNeuralNet&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" alt="Activity Graph" />
-  
-  <br><br>
-  
   <!-- Profile Summary Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaiderNeuralNet&theme=github_dark" width="100%" alt="Profile Summary" />
 
