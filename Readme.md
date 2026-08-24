@@ -67,7 +67,7 @@
 
 ##  Tech Stack
 
-** AI & Machine Learning**
+ AI & Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-00f5a0?style=for-the-badge&logo=chainlink&logoColor=black)
@@ -76,14 +76,14 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-** Backend Development**
+ Backend Development
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-** Web & Tools**
+ Web & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -94,15 +94,20 @@
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HaiderNeuralNet&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00d4ff&text_color=ddeeff"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HaiderNeuralNet&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00f5a0&fire=00d4ff&currStreakLabel=00f5a0"/>
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HaiderNeuralNet&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00d4ff&text_color=ddeeff" alt="Haider's GitHub Stats"/>
+
+  <img width="49%" src="https://streak-stats.demolab.com?user=HaiderNeuralNet&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00f5a0&fire=00d4ff&currStreakLabel=00f5a0" alt="GitHub Streak"/>
+
 </div>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaiderNeuralNet&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00f5a0&text_color=ddeeff"/>
+
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaiderNeuralNet&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00f5a0&text_color=ddeeff" alt="Top Languages"/>
+
 </div>
 
 ---
