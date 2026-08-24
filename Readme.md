@@ -98,24 +98,8 @@
 
 <div align="center">
   
-  <!-- Simple Stats Table -->
-  <table>
-    <tr>
-      <td align="center">
-        <strong>📦 Repositories</strong><br>
-        10+
-      </td>
-      <td align="center">
-        <strong>⭐ Stars</strong><br>
-        Coming Soon
-      </td>
-      <td align="center">
-        <strong>👥 Followers</strong><br>
-        <a href="https://github.com/HaiderNeuralNet?tab=followers">View</a>
-      </td>
-    </tr>
-  </table>
-  
+ 
+ <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HaiderNeuralNet&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00d4ff&text_color=ddeeff" alt="Haider's GitHub Stats" />
   <br>
   
   <!-- Activity Graph - Working Alternative -->
