@@ -96,9 +96,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=HaiderNeuralNet&show_icons=true&theme=dark" alt="GitHub Stats" />
-![GitHub Streak](https://streak-stats.demolab.com?user=HaiderNeuralNet&theme=dark)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HaiderNeuralNet&show_icons=true)
 ---
 
 ##  Contribution Graph
